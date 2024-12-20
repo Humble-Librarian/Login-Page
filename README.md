@@ -22,3 +22,10 @@ HTML: The structure of the web page.
 
 CSS: Styling of the forms and overall layout.
 
+# Preview
+
+[Check it out](https://lucent-tarsier-b5c854.netlify.app)
+
+# Edit
+
+[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/Humble-Librarian/Login-Page)
