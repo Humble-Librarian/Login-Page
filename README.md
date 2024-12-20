@@ -28,4 +28,4 @@ CSS: Styling of the forms and overall layout.
 
 # Edit
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/Humble-Librarian/Login-Page)
+[Edit in StackBlitz editor](https://stackblitz.com/~/github.com/Humble-Librarian/Login-Page)
